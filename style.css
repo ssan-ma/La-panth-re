@@ -128,6 +128,13 @@ a:hover {
     font-weight: bold;
 }
 
+.portfolio{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: initial ;
+}
+
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
